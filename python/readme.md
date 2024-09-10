@@ -7,7 +7,6 @@ You need to install two Python libraries:
 
 You can install these libraries using the following commands:
 
-bash
 
 pip install pandas python-docx
 
